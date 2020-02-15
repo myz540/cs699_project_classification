@@ -15,11 +15,14 @@ data <- read.csv(file, header = TRUE)
 
 
 View(data)
-colnames(data)
-
-# get relevant variables
+print(colnames(data), row.names = FALSE) # get relevant variables
+str(data)
 data.rel <- na.omit(data[c(8,9,10,12,13,14,15,17,26,27)])
 
+data.goal <- data[3]
+distinct = unique(data.goal)
+distinct
+       
 # create overview of new dataset
 str(data.rel)
 cor(data.rel)
