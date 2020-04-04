@@ -1,0 +1,201 @@
+@relation 'cleaned_data_ready_for_weka-weka.filters.unsupervised.attribute.NumericToNominal-R19-weka.filters.unsupervised.attribute.Remove-R14-weka.filters.unsupervised.attribute.Remove-R17,19-20-weka.filters.unsupervised.attribute.NumericToNominal-R5-weka.filters.unsupervised.instance.RemovePercentage-P30.0'
+
+@attribute 'PROPERTY TYPE' {Condo/Co-op,'Single Family Residential',Townhouse,'Multi-Family (2-4 Unit)','Mobile/Manufactured Home','Multi-Family (5+ Unit)'}
+@attribute ADDRESS {'650 Columbia Rd #1','125 Hart St Unit 3B','5 Federal St','10 Greenhouse Way','22 Temple St','181 Warren Ave #4','699 Hyde Park Ave #3','20 Spring Garden St #1','7 Church St #3','134 Orvis Rd','21 Hall St #1','147 Hillside Rd #1','276 Ridge St','2 Farmstead Way','37 Myrtle St','18 Coolidge St','262 Glen Rd','999 Hancock St #308','260 Ridge St','3 Kevin Cir','8 Linden Rd','255 N Washington St','22 Beacon St #22','7 Cedar Brook Rd','159 Linwood St','219 Oak St','75 Tanbark Rd','1092-1094 Main St','114 Commonwealth Ave #3','25 Skyview Ln','6 Melina Rd','12 Dassance Dr','17 Forrest St','31 Church Grn #102','37 Walnut St','lot 2 Granite Ave','58 Welch Rd','167 S Franklin St','335 Chestnut St','15 Fenton Dr','35 Granite St #2','99 Leedham St','135 Seaport Blvd #1018','12 Fox Run','133 Seaport Blvd #720','133 Seaport Blvd #1815','176-178 HYDE PARK Ave #2','235 Pleasant St','1 & 11 Kenilworth Rd','1 Minuteman Ln','30 Abbey Rd #103','271 W Princeton Rd Lot 2','28 Orne St','175 Tyson Commons Ln #175','10 Locust Ln Unit E','81 Bishops Forest Dr #81','229 Vernon St #3','118 School St','60 Willow Ave','168 Ayer Rd Unit G3','100 Longmeadow Ave','305 Turnpike St #217','14 Rogers Cir','55 Commercial Wharf #6','269 Clifton','141 Dorchester Ave #910','11 Key West Blvd','122 Farm St','108 Robincrest Ct','253 Parkerville Rd #11','1 South St','41 Mcandrew Rd','253 Parkerville Rd #1','28 Longfellow Rd','26-28 Hano St','193 Randolph St','29 Elizabeth Ln','543 Lexington St','181 Shining Rock Dr','91 Clarendon Ave #2','738 N Cary St','180 Hayden Rowe St','46 Walnut Ter','31 Mulberry St','226 Blue Hill Ave','558 Pleasant St','200 Martins Lndg #411','8 Sanborn St #4010','13 Clarendon Rd','29 Avon Pl','306 Commonwealth Ave #5','201 W Brookline St #204','321 Bishops Forest Dr #321','159 W 8th St','305-309 Highland Ave','9 Middle St','21 Serenity Dr','48 Ettrick St','115 Kensington St','176 Maple Ave Unit 3-2','15 VINEDALE Rd','4 Clark St','34 River Rd','90 Hillside Rd','93 BYRON Rd','124 Milton St #2','122 Milton St #1','247 SWANTON St','50 Harlan Dr','840 Newton St','30 Greenwood Rd','138 Forest Ave','28 Donna Rd','34 Upland St','44 Otis St','6 Daania Dr #9','20 Ship Ave #10','45 Lewis St Ph 18','3 Daania Dr #7','15 Staples Ave #37','Lot 41 Plymouth St Unit B','114 Jaques St','9 Connors Cir','160 Cottage St #001','1068 MAIN St','35 Woodlot Dr Lot 16','9 Medford St Ph 10','12 Morton Rd','27 Galen St','548 Fairmount St','40 Valley St','252 newbury #112','19 Myrtle St','16 Pemberton St Unit C','24 Kingsbury St #1','174 Highland St','46 Wells Park Rd','61 Berlin St','6 Millstone Dr #6','21 Towle Dr #21','233 Roosevelt','739 Cummins Hwy','19 Second St','2 Rose Ln','100 Lovejoy Wharf Unit 6C','100 Lovejoy Wharf Ph 3E','100 Lovejoy Wharf Ph 1A','100 Lovejoy Wharf Unit 11D','100 Lovejoy Wharf Unit 7P','18 Maravista Rd','69 Foundry St #401','69 Foundry St #410','27 Dearborn Ave','171 Birchtree Dr','69 Foundry St #210','69 Foundry St #214','420 Thicket St','46 Deer Run Cir','9 Glen Gery Rd','50 Woodside Ave','138 Cherry St','189 Kendall Rd','171 Copperwood Dr #171','57 Bellwood Cir #57','23 Rainbow Pond Dr Unit C2','162 Green St','43 Prospect St','51 1/2 Old Shirley Rd','523 Bedford St','20 Church St #3','3.1 Pinnacle Rd','660 E Seventh St #1','3 Blue Heron Way','7-9 Falulah St','199 Dutton Rd','6 Wysocki Dr #27','352 Washington St','41 Clinton St','43 Cambridge St','1106 Massachusetts Ave','19 Greenwood Pl','80 Station St','45 Mt Pleasant St #45','2 SUNSET Way #2','29 Boynton Rd','1 Old Barre Rd','22 Highfield Cir','42 Halsey Rd','32 Woodsome Ave','26 Westchester Dr','303 Winchester St Unit C','74 Pinedale Ave','65 Commercial Wharf Ph 4','344 Dedham St','55 Farm Rd','301 Summer St','23 Heather Dr','27 Oldfield Dr','20 Elliott Rd','34 Benham St','11 Avon Pl','31 Hartford St','222 Warren St','16 Worster','25 Jefferson Dr #25','Lot 20 Autumn Dr','59 Addington Rd #1','59 Addington Rd #2','59 Addington Rd #3','59 Addington Rd #4','384 Dudley Rd','250 ANAWAN St','288 Main St #1','Lot 10 Foxhollow Rd','33 Jerome St','93 Concord St Unit 93','385 Main St #4','385 Main St #2','115 Bogle St','138 Waverly Ave','16 Highland St','23 Peterson','92 Lowther','14 Gates Rd Unit A','796 Waverley St','102 Sears Rd','46 Rutherford Ave','33 Pond Ave #305','43 Creeper Hill Rd','225 Country Hill Dr','16 Baldwin Dr #16','680 N Main St','102 Williams St #2','91 Dexter Rd','23 Cleary Cir #13','9 Independence Ave #302','173 Main St #1','281 Taylor Rd','59 LIncoln St','50 Garden Pkwy','50 Collins St','9 Woodward Park St #1','25 McGregory Rd','11 Burditt Rd','44 Nevada Rd','243 Washington St','1114 West St','27-1 Arlington Rd #3','7 CAPE CLUB Dr','280 Boylston St #312','144 Hart St #36','23 Harrison Ave','373 Hartford Ave','187 Washington St','28 MC KINLEY','43 - 45 Lincoln St','25 Rocky Brook Rd'}
+@attribute CITY {Boston,Taunton,Wilmington,Randolph,Reading,Somerville,Revere,Waltham,Watertown,Millis,Littleton,Tewksbury,Weston,Quincy,Framingham,Sandwich,'North Attleboro',Shrewsbury,Wellesley,Lynn,Raynham,Sudbury,Newton,Foxboro,Winthrop,Brookline,Holbrook,Worcester,Cambridge,Attleboro,Brookfield,Paxton,Oxford,Leominster,Westminster,Braintree,Shirley,Easton,Devens,Rehoboth,Dover,Seekonk,Southborough,Upton,Weymouth,Peabody,Northbridge,Brockton,Hopkinton,Avon,Milton,Franklin,'North Reading',Auburn,Arlington,Uxbridge,Rutland,Holden,Dedham,Winchester,Chelmsford,Mansfield,Westborough,Medford,Everett,Canton,Walpole,Fitchburg,Blackstone,Sturbridge,Medway,Sharon,Wakefield,Westwood,Barre,Malden,Stoughton,Bellingham,Carlisle,Harvard,Concord,Acton,Dudley,Clinton,Lexington,Gardner,Medfield,Templeton,Petersham,Billerica,Sherborn,Norwood,Berkley,Ashland,Woburn,Melrose,Spencer,Natick,Wayland,Grafton,Dighton,Norfolk,Maynard,Stow,Needham,Wrentham}
+@attribute 'STATE OR PROVINCE' {MA}
+@attribute 'ZIP OR POSTAL CODE' {1005,1366,1420,1434,1440,1451,1453,1460,1464,1468,1473,1501,1504,1506,1510,1520,1534,1536,1540,1543,1545,1562,1566,1568,1569,1571,1581,1602,1603,1605,1606,1607,1612,1701,1702,1720,1721,1741,1742,1748,1754,1760,1770,1772,1775,1776,1778,1801,1821,1824,1864,1867,1876,1880,1887,1890,1905,1960,2019,2021,2026,2030,2035,2038,2048,2052,2053,2054,2056,2062,2067,2072,2081,2090,2093,2110,2114,2116,2118,2125,2126,2127,2128,2129,2130,2131,2134,2136,2139,2140,2143,2144,2145,2148,2149,2151,2152,2155,2169,2176,2184,2186,2188,2190,2210,2301,2302,2322,2343,2357,2368,2375,2420,2445,2451,2452,2453,2459,2461,2467,2472,2474,2481,2482,2493,2494,2703,2760,2764,2767,2769,2771,2779,2780}
+@attribute PRICE numeric
+@attribute BEDS numeric
+@attribute BATHS numeric
+@attribute LOCATION {'Dorchesters Uphams Corner',Taunton,Wilmington,Randolph,Reading,'South End',Roslindale,'Dorchesters Savin Hill',Somerville,Revere,Waltham,'East Watertown',Millis,Littleton,Rockville,Tewksbury,Weston,'Quincy Center',Framingham,'East Sandwich','North Attleboro',Shrewsbury,Wellesley,Lynn,Raynham,Sudbury,Cedarwood,'Back Bay',Newton,Foxboro,Winthrop,Brookline,Holbrook,Worcester,Cambridgeport,Attleboro,'Seaport District','Brookfield Meadows','Jamaica Plains Forest Hills',Paxton,Oxford,Leominster,Westminster,Braintree,Watertown,Shirley,Easton,'Emerson Green',Waterfront,'South Boston','Cedar Hill Estates','Historic Farm St.',Seekonk,Southborough,Upton,Allston,'South Weymouth','West Peabody','Piety Corner','Shining Rock Golf Community','Davis Square',Brockton,'Hayden Row',Avon,Milton,Franklin,'North Reading','Pakachoag Hill','Arlington Center',Uxbridge,'Kennedy School',Rutland,Holden,'East Braintree',Dedham,'POTENTIALLY could be numbered as 5 WHITE STREET','Chestnut Hill',Chelmsford,'Pakachoag/Golf Course',Mansfield,Westborough,Medford,'East Boston',Everett,Canton,'East Bostons Jeffries Point','Prime in-town location','Milton Woods','Newton Center',Fitchburg,Blackstone,Peabody,Walpole,'Southside Estate Area',Sturbridge,Medway,Mattapan,Sharon,Wakefield,Westwood,Weymouth,Barre,'Brice Estates',Forestdale,Stoughton,Bellingham,Carlisle,Harvard,Concord,Acton,Dudley,Clinton,'South Chelmsford',Lexington,Gardner,Quincy,'Avon Hill',Harding,Templeton,Petersham,'Hyde Park',Auburn,'Newton Highlands',Billerica,Dover,Sherborn,Norwood,Arlington,'Autumn Estates',Rehoboth,Hopkinton,Berkley,Ashland,Woburn,'Mount Hood',Spencer,Peterson/Ingleside/Oak,Wayland,Charlestown,'Brookline Village',Grafton,Dighton,'Jamaica Plain',Melrose,Norfolk,Maynard,Stow,Boston,Needham,Wrentham,'The Cape Club of Sharon Golf Course','Plymouth Village'}
+@attribute 'SQUARE FEET' numeric
+@attribute 'LOT SIZE' numeric
+@attribute 'YEAR BUILT' numeric
+@attribute 'DAYS ON MARKET' numeric
+@attribute HOA/MONTH numeric
+@attribute LATITUDE numeric
+@attribute LONGITUDE numeric
+@attribute PRICE_BIN_ALT {0,1,2,3,4,5,6,7,8,9}
+
+@data
+'Single Family Residential','543 Lexington St',Waltham,MA,2452,699900,3,1.5,'Piety Corner',2142,6011,1935,1,0,42.394295,-71.236736,6
+'Single Family Residential','181 Shining Rock Dr',Northbridge,MA,1534,849900,5,3.5,'Shining Rock Golf Community',5300,29228,2005,1,0,42.153594,-71.642722,7
+Townhouse,'91 Clarendon Ave #2',Somerville,MA,2144,1325000,3,2.5,'Davis Square',2026,32177.410927,2019,1,0,42.401156,-71.13081,8
+'Single Family Residential','738 N Cary St',Brockton,MA,2302,429900,5,2.5,Brockton,2046,31887,1925,1,0,42.108336,-70.999061,3
+'Single Family Residential','180 Hayden Rowe St',Hopkinton,MA,1748,799900,4,4,'Hayden Row',3200,40119,1800,1,0,42.206386,-71.511759,7
+'Single Family Residential','46 Walnut Ter',Avon,MA,2322,369000,3,1,Avon,1408,11000,1955,1,0,42.126483,-71.0485,2
+'Multi-Family (2-4 Unit)','31 Mulberry St',Attleboro,MA,2703,289900,4,2,Attleboro,2270,10000,1900,1,0,41.934759,-71.281907,1
+'Single Family Residential','226 Blue Hill Ave',Milton,MA,2186,475000,4,1.5,Milton,1450,4861,1929,1,0,42.257605,-71.097944,3
+'Single Family Residential','558 Pleasant St',Franklin,MA,2038,399900,3,1.5,Franklin,1661,20399,1957,1,0,42.101323,-71.379121,2
+Condo/Co-op,'200 Martins Lndg #411','North Reading',MA,1864,474999,2,2,'North Reading',1326,22635.975838,2018,1,345,42.573,-71.1292,3
+Condo/Co-op,'8 Sanborn St #4010',Reading,MA,1867,679900,2,2,Reading,1055,18942.077396,2020,1,275,42.523741,-71.104421,6
+'Single Family Residential','13 Clarendon Rd',Auburn,MA,1501,109900,2,1,'Pakachoag Hill',891,8202,1940,1,0,42.215467,-71.824774,0
+'Single Family Residential','29 Avon Pl',Arlington,MA,2474,1200000,4,2,'Arlington Center',2028,6762,1865,1,0,42.412306,-71.151002,8
+Condo/Co-op,'306 Commonwealth Ave #5',Boston,MA,2116,1399000,2,1.5,'Back Bay',1088,19391.887907,1886,1,612,42.349435,-71.085493,8
+Condo/Co-op,'201 W Brookline St #204',Boston,MA,2118,4050000,3,3.5,'South End',2756,42127.764663,2018,1,1183,42.343525,-71.076403,9
+Townhouse,'321 Bishops Forest Dr #321',Waltham,MA,2452,639900,2,2.5,Waltham,2010,31959.320982,1989,1,499,42.399676,-71.226364,5
+'Single Family Residential','159 W 8th St',Boston,MA,2127,575000,2,1.5,'South Boston',1148,1200,1900,1,0,42.334266,-71.053142,5
+'Multi-Family (5+ Unit)','305-309 Highland Ave',Somerville,MA,2144,4999900,17,9,Somerville,1250,21600.0486,1963,1,0,42.392887,-71.113402,9
+'Single Family Residential','9 Middle St',Taunton,MA,2780,314900,3,1,Taunton,1092,18295,1962,1,0,41.990908,-71.167542,1
+'Single Family Residential','21 Serenity Dr',Uxbridge,MA,1569,584900,3,2,Uxbridge,2000,108900,2020,1,0,42.102652,-71.614928,5
+'Single Family Residential','48 Ettrick St',Brockton,MA,2301,329900,3,2,'Kennedy School',1598,8220,1960,1,0,42.067372,-71.034107,1
+'Single Family Residential','115 Kensington St',Braintree,MA,2184,649800,3,2,Braintree,1812,15046,1976,1,0,42.209512,-70.990692,6
+Condo/Co-op,'176 Maple Ave Unit 3-2',Rutland,MA,1543,99900,2,1,Rutland,720,14375.819175,1972,1,275,42.358246,-71.94297,0
+'Single Family Residential','15 VINEDALE Rd',Brockton,MA,2301,399900,2,2,Brockton,1678,10467,1976,1,0,42.089224,-71.075451,2
+'Single Family Residential','4 Clark St',Holden,MA,1520,269900,2,1,Holden,1126,19166,1957,1,0,42.359465,-71.859762,1
+'Single Family Residential','34 River Rd',Taunton,MA,2780,350000,3,1,Taunton,1224,17424,1963,1,0,41.906585,-71.070832,2
+'Single Family Residential','90 Hillside Rd',Braintree,MA,2184,480000,2,2,'East Braintree',1200,16220,1973,1,0,42.219311,-70.986652,3
+'Single Family Residential','93 BYRON Rd',Weston,MA,2493,1675000,5,3.5,Weston,4000,40883,1956,1,0,42.332908,-71.281899,9
+Townhouse,'124 Milton St #2',Dedham,MA,2026,635000,3,2.5,Dedham,2300,9550,2019,1,200,42.244437,-71.150631,5
+Townhouse,'122 Milton St #1',Dedham,MA,2026,635000,3,2.5,Dedham,2300,9550,2019,1,200,42.244439,-71.15066,5
+'Single Family Residential','247 SWANTON St',Winchester,MA,1890,649999,3,1,'POTENTIALLY could be numbered as 5 WHITE STREET',1582,8427,1880,1,0,42.461779,-71.140419,6
+'Single Family Residential','50 Harlan Dr',Brockton,MA,2301,435000,4,2.5,Brockton,1666,10968,1955,1,0,42.066229,-71.0355,3
+'Single Family Residential','840 Newton St',Brookline,MA,2467,1999000,5,6,'Chestnut Hill',4677,15996,2000,1,42,42.307756,-71.168565,9
+'Single Family Residential','30 Greenwood Rd',Brockton,MA,2301,479900,4,3,Brockton,2572,12118,2020,1,0,42.057339,-71.014322,3
+'Multi-Family (2-4 Unit)','138 Forest Ave',Brockton,MA,2301,559900,4,2,Brockton,2089,6652,1924,1,0,42.071906,-71.025053,5
+'Single Family Residential','28 Donna Rd',Chelmsford,MA,1824,825900,4,3,Chelmsford,3800,30846,2017,1,0,42.569884,-71.340987,7
+'Single Family Residential','34 Upland St',Auburn,MA,1501,318000,2,2,'Pakachoag/Golf Course',1176,16820,1954,1,0,42.222457,-71.81069,1
+'Single Family Residential','44 Otis St',Mansfield,MA,2048,529900,4,3,Mansfield,3522,17860,1983,1,0,41.996777,-71.246099,4
+Condo/Co-op,'6 Daania Dr #9',Westborough,MA,1581,549900,2,2.5,Westborough,1718,27979.179488,2020,1,200,42.270647,-71.656289,4
+Townhouse,'20 Ship Ave #10',Medford,MA,2155,519000,2,2,Medford,1193,20823.103171,1987,1,342,42.413356,-71.099811,4
+Condo/Co-op,'45 Lewis St Ph 18',Boston,MA,2128,1049000,2,2,'East Boston',1092,19446.410394,2020,1,792,42.367359,-71.041824,7
+Condo/Co-op,'3 Daania Dr #7',Westborough,MA,1581,549900,2,2.5,Westborough,1718,27979.179488,2020,1,200,42.270647,-71.656289,4
+Condo/Co-op,'15 Staples Ave #37',Everett,MA,2149,289900,2,1,Everett,722,14403.080418,1960,1,311,42.414376,-71.055389,1
+Townhouse,'Lot 41 Plymouth St Unit B',Canton,MA,2021,535000,3,2,Canton,1900,13983,2019,1,175,42.154095,-71.148449,4
+'Single Family Residential','114 Jaques St',Somerville,MA,2145,1000000,5,2.5,Somerville,2100,2683,1900,1,0,42.395576,-71.094787,7
+'Single Family Residential','9 Connors Cir',Randolph,MA,2368,349000,3,1.5,Randolph,1364,23153.939457,1985,1,0,42.163508,-71.027282,2
+Condo/Co-op,'160 Cottage St #001',Boston,MA,2128,384900,2,1,'East Bostons Jeffries Point',624,13067.279505,1905,1,207,42.369969,-71.033145,2
+'Single Family Residential','1068 MAIN St',Walpole,MA,2081,675000,3,2.5,'Prime in-town location',2505,16988,1949,1,0,42.14274,-71.254869,6
+'Single Family Residential','35 Woodlot Dr Lot 16',Milton,MA,2186,1608765,4,3.5,'Milton Woods',5714,24829,2020,1,205,42.24023,-71.089737,9
+Condo/Co-op,'9 Medford St Ph 10',Somerville,MA,2143,1100000,2,2,Somerville,1189,20768.580685,1916,1,874,42.374201,-71.086825,7
+'Single Family Residential','12 Morton Rd',Newton,MA,2459,1900000,3,3.5,'Newton Center',3214,8523,1916,1,0,42.339117,-71.201593,9
+'Single Family Residential','27 Galen St',Brockton,MA,2302,305000,3,1,Brockton,1032,6268,1925,1,0,42.084815,-70.993629,1
+'Multi-Family (2-4 Unit)','548 Fairmount St',Fitchburg,MA,1420,299900,6,2,Fitchburg,2625,15775,1880,1,0,42.575004,-71.832094,1
+'Single Family Residential','40 Valley St',Blackstone,MA,1504,259900,2,1,Blackstone,1108,16117,1958,1,0,42.018772,-71.505565,0
+'Mobile/Manufactured Home','252 newbury #112',Peabody,MA,1960,139900,2,1,Peabody,1030,18601.311857,1977,1,0,42.551494,-70.982123,0
+'Single Family Residential','19 Myrtle St',Taunton,MA,2780,299000,3,1.5,Taunton,1225,14810,1995,1,0,41.898244,-71.102249,1
+Townhouse,'16 Pemberton St Unit C',Walpole,MA,2081,229000,2,1.5,Walpole,1032,18628.5731,1985,1,100,42.153771,-71.248566,0
+'Single Family Residential','24 Kingsbury St #1',Wellesley,MA,2481,1099900,4,2.5,Wellesley,3054,46189.689887,2006,1,250,42.303174,-71.287867,7
+'Single Family Residential','174 Highland St',Weston,MA,2493,7499000,6,7.5,'Southside Estate Area',10002,130132,2000,1,0,42.35437,-71.319181,9
+'Single Family Residential','46 Wells Park Rd',Sturbridge,MA,1566,349900,3,2,Sturbridge,1254,33541,1969,1,17,42.138435,-72.054663,2
+'Single Family Residential','61 Berlin St',Dedham,MA,2026,419900,3,1,Dedham,1056,7579,1959,2,0,42.253315,-71.149238,3
+Condo/Co-op,'6 Millstone Dr #6',Medway,MA,2053,529900,3,2.5,Medway,2150,33867.608,2015,2,310,42.161555,-71.428531,4
+Townhouse,'21 Towle Dr #21',Holden,MA,1520,215000,3,1.5,Holden,1200,20918.517522,1990,2,228,42.34269,-71.861551,0
+'Single Family Residential','233 Roosevelt',Fitchburg,MA,1420,387000,3,2.5,Fitchburg,1948,32920,2010,2,0,42.570374,-71.842678,2
+'Multi-Family (2-4 Unit)','739 Cummins Hwy',Boston,MA,2126,525000,4,2,Mattapan,2352,6050,1927,2,0,42.270259,-71.101054,4
+'Mobile/Manufactured Home','19 Second St',Sturbridge,MA,1566,49900,2,1.5,Sturbridge,1103,19596.347231,1981,2,312,42.079824,-72.085196,0
+'Single Family Residential','2 Rose Ln',Sharon,MA,2067,1095000,5,3.5,Sharon,3802,359220,1989,2,0,42.145846,-71.189013,7
+Condo/Co-op,'100 Lovejoy Wharf Unit 6C',Boston,MA,2114,1425000,2,2,Waterfront,1244,21518.26487,2017,2,1264,42.366493,-71.059895,8
+Condo/Co-op,'100 Lovejoy Wharf Ph 3E',Boston,MA,2114,2999000,3,3,Waterfront,1644,26970.513493,2017,2,2130,42.366493,-71.059895,9
+Condo/Co-op,'100 Lovejoy Wharf Ph 1A',Boston,MA,2114,1195000,1,1.5,Waterfront,1083,19323.7348,2017,2,1156,42.366493,-71.059895,8
+Condo/Co-op,'100 Lovejoy Wharf Unit 11D',Boston,MA,2114,2299000,3,3,Waterfront,1664,27243.125924,2017,2,2008,42.366493,-71.059895,9
+Condo/Co-op,'100 Lovejoy Wharf Unit 7P',Boston,MA,2114,1399000,2,2,Waterfront,1342,22854.065783,2017,2,1417,42.366493,-71.059895,8
+'Single Family Residential','18 Maravista Rd',Worcester,MA,1606,364900,2,2,Worcester,1092,6969,2019,2,0,42.32552,-71.806969,2
+Condo/Co-op,'69 Foundry St #401',Wakefield,MA,1880,480000,2,2,Wakefield,994,18110.609481,2020,2,422,42.499077,-71.074476,3
+Condo/Co-op,'69 Foundry St #410',Wakefield,MA,1880,485000,2,2,Wakefield,994,18110.609481,2020,2,426,42.499077,-71.074476,3
+'Multi-Family (2-4 Unit)','27 Dearborn Ave',Lynn,MA,1905,659900,6,3,Lynn,2721,4206,1900,2,0,42.458923,-70.978595,6
+'Single Family Residential','171 Birchtree Dr',Westwood,MA,2090,889900,3,2,Westwood,1933,15080,1950,2,0,42.22954,-71.222686,7
+Condo/Co-op,'69 Foundry St #210',Wakefield,MA,1880,475000,2,2,Wakefield,994,18110.609481,2020,2,422,42.499077,-71.074476,3
+Condo/Co-op,'69 Foundry St #214',Wakefield,MA,1880,480000,2,2,Wakefield,994,18110.609481,2020,2,422,42.499077,-71.074476,3
+'Single Family Residential','420 Thicket St',Weymouth,MA,2190,479900,3,2,Weymouth,1092,15514,1958,2,0,42.143219,-70.969517,3
+'Single Family Residential','46 Deer Run Cir',Barre,MA,1005,259900,3,2,Barre,1656,79204,1992,2,0,42.432046,-72.072379,0
+'Single Family Residential','9 Glen Gery Rd',Shrewsbury,MA,1545,615000,4,2.5,Shrewsbury,2352,20790,1992,2,0,42.325282,-71.699188,5
+'Single Family Residential','50 Woodside Ave',Rutland,MA,1543,379900,3,2.5,'Brice Estates',2248,15000,1963,2,0,42.378122,-71.979243,2
+'Single Family Residential','138 Cherry St',Malden,MA,2148,498888,4,1.5,Forestdale,1573,4694,1967,2,0,42.438059,-71.05305,4
+'Single Family Residential','189 Kendall Rd',Holden,MA,1520,459900,3,2.5,Holden,3388,44792,1985,2,0,42.341032,-71.845274,3
+Condo/Co-op,'171 Copperwood Dr #171',Stoughton,MA,2072,349900,2,2.5,Stoughton,2500,38638.325545,1986,2,368,42.140654,-71.136719,2
+Townhouse,'57 Bellwood Cir #57',Bellingham,MA,2019,239900,2,1.5,Bellingham,1164,20427.815146,1987,2,379,42.083843,-71.480721,0
+Condo/Co-op,'23 Rainbow Pond Dr Unit C2',Walpole,MA,2081,314900,2,2,Walpole,1167,20468.70701,1980,2,674,42.145813,-71.23809,1
+'Single Family Residential','162 Green St',Shrewsbury,MA,1545,879800,4,2.5,Shrewsbury,3190,67082,2020,2,0,42.261975,-71.678922,7
+'Single Family Residential','43 Prospect St',Carlisle,MA,1741,1299000,4,4.5,Carlisle,4375,87555,2002,2,0,42.503122,-71.332752,8
+'Single Family Residential','51 1/2 Old Shirley Rd',Harvard,MA,1451,789900,4,2.5,Harvard,3190,353707,2020,2,0,42.520756,-71.583268,6
+'Single Family Residential','523 Bedford St',Concord,MA,1742,1475000,4,2.5,Concord,3977,20871,2013,2,0,42.467726,-71.331986,8
+Condo/Co-op,'20 Church St #3',Braintree,MA,2184,319900,2,1,Braintree,935,99999,1969,2,398,42.223085,-71.001479,1
+'Single Family Residential','3.1 Pinnacle Rd',Harvard,MA,1451,899900,4,4,Harvard,3768,77972,2020,2,0,42.508249,-71.559673,7
+Condo/Co-op,'660 E Seventh St #1',Boston,MA,2127,899000,3,3,'South Boston',1660,2337,1900,2,0,42.332491,-71.033724,7
+'Single Family Residential','3 Blue Heron Way',Acton,MA,1720,699000,3,3,Acton,2435,37752.335144,1995,2,876,42.501192,-71.411372,6
+'Multi-Family (2-4 Unit)','7-9 Falulah St',Fitchburg,MA,1420,149900,5,2,Fitchburg,2892,4490,1900,2,0,42.564287,-71.779709,0
+'Single Family Residential','199 Dutton Rd',Sudbury,MA,1776,1295000,4,3,Sudbury,4794,400677,1931,2,0,42.37174,-71.469568,8
+Condo/Co-op,'6 Wysocki Dr #27',Dudley,MA,1571,74900,1,1,Dudley,773,15098.242117,1970,2,213,42.053437,-71.88704,0
+'Single Family Residential','352 Washington St',Taunton,MA,2780,299900,3,2,Taunton,1771,5227,1900,3,0,41.922829,-71.094313,1
+'Multi-Family (2-4 Unit)','41 Clinton St',Clinton,MA,1510,329900,6,2,Clinton,2340,3660,1900,3,0,42.41262,-71.689183,1
+'Single Family Residential','43 Cambridge St',Chelmsford,MA,1824,499900,4,1.5,'South Chelmsford',1788,40600,1966,3,0,42.564762,-71.33078,4
+'Single Family Residential','1106 Massachusetts Ave',Lexington,MA,2420,1949000,4,5.5,Lexington,4213,18531,1760,3,0,42.43505,-71.211154,9
+'Single Family Residential','19 Greenwood Pl',Gardner,MA,1440,183900,3,1,Gardner,1206,5000,1910,3,0,42.566334,-71.997058,0
+'Multi-Family (2-4 Unit)','80 Station St',Quincy,MA,2169,699900,6,2,Quincy,2776,5000,1880,3,0,42.239272,-71.022824,6
+Townhouse,'45 Mt Pleasant St #45',Cambridge,MA,2140,1985000,3,3.5,'Avon Hill',2179,34262.896025,2019,3,275,42.387869,-71.125332,9
+Townhouse,'2 SUNSET Way #2',Medfield,MA,2052,839000,3,2.5,Harding,2338,36430.164853,2019,3,400,42.187128,-71.30417,7
+'Single Family Residential','29 Boynton Rd',Templeton,MA,1468,265000,3,3,Templeton,2662,32670,1763,3,0,42.557912,-72.068134,1
+'Single Family Residential','1 Old Barre Rd',Petersham,MA,1366,284900,3,2,Petersham,1850,69696,1890,3,0,42.481266,-72.127738,1
+'Single Family Residential','22 Highfield Cir',Milton,MA,2186,889000,4,3,Milton,2719,4905,1952,3,0,42.25738,-71.048686,7
+'Single Family Residential','42 Halsey Rd',Boston,MA,2136,479900,3,2,'Hyde Park',1008,5200,1950,3,0,42.242295,-71.124741,3
+'Single Family Residential','32 Woodsome Ave',Leominster,MA,1453,325000,3,1.5,Leominster,2046,21781,1941,3,0,42.566805,-71.755135,1
+'Single Family Residential','26 Westchester Dr',Auburn,MA,1501,329900,4,2,Auburn,1500,11885,1971,3,0,42.19372,-71.828285,1
+Townhouse,'303 Winchester St Unit C',Newton,MA,2461,899000,3,2.5,'Newton Highlands',1965,31345.943012,1984,3,484,42.309984,-71.208087,7
+'Single Family Residential','74 Pinedale Ave',Billerica,MA,1821,524900,3,1.5,Billerica,2058,21000,1968,3,0,42.532416,-71.217048,4
+Condo/Co-op,'65 Commercial Wharf Ph 4',Boston,MA,2110,3500000,3,3,Waterfront,2703,41405.341721,1875,3,1722,42.36199,-71.049894,9
+'Single Family Residential','344 Dedham St',Dover,MA,2030,1749000,4,2,Dover,2810,261360,1951,3,0,42.257718,-71.233516,9
+'Single Family Residential','55 Farm Rd',Sherborn,MA,1770,1199000,4,4,Sherborn,5029,358499,1980,3,0,42.24016,-71.359573,8
+'Single Family Residential','301 Summer St',Weymouth,MA,2188,459900,3,1,Weymouth,1322,7494,1928,3,0,42.203644,-70.967985,3
+'Single Family Residential','23 Heather Dr',Norwood,MA,2062,500000,3,2,Norwood,1500,21651,1967,3,0,42.179152,-71.175324,4
+'Single Family Residential','27 Oldfield Dr',Sherborn,MA,1770,798000,4,2.5,Sherborn,3320,91476,1972,3,0,42.247493,-71.399995,7
+'Single Family Residential','20 Elliott Rd',Everett,MA,2149,539900,2,2,Everett,2100,4299,1955,3,0,42.418187,-71.046736,4
+'Single Family Residential','34 Benham St',Brockton,MA,2302,375000,4,2,Brockton,2190,7593,1960,3,0,42.086807,-71.003136,2
+'Multi-Family (2-4 Unit)','11 Avon Pl',Arlington,MA,2474,1100000,7,3,Arlington,4506,5210,1904,3,0,42.41302,-71.150398,7
+'Single Family Residential','31 Hartford St',Dover,MA,2030,1849000,4,4.5,Dover,6813,40029,2007,3,0,42.21185,-71.258141,9
+'Single Family Residential','222 Warren St',Brookline,MA,2445,8475000,8,7.5,'Chestnut Hill',7000,80028,1848,3,0,42.320938,-71.132151,9
+'Single Family Residential','16 Worster',Medford,MA,2155,699900,3,2.5,Medford,2307,5528,1987,3,0,42.429299,-71.098129,6
+Townhouse,'25 Jefferson Dr #25',Lexington,MA,2420,1325000,4,4.5,Lexington,3290,49406.516574,2020,3,452,42.487208,-71.240429,8
+'Single Family Residential','Lot 20 Autumn Dr',Westwood,MA,2090,1549000,4,3.5,'Autumn Estates',4000,76230,2020,3,0,42.202463,-71.221225,8
+Condo/Co-op,'59 Addington Rd #1',Brookline,MA,2445,1300000,2,2.5,Brookline,1393,23549.227482,1910,3,588,42.335855,-71.135127,8
+Condo/Co-op,'59 Addington Rd #2',Brookline,MA,2445,1350000,3,2.5,Brookline,1350,22963.110755,1910,3,570,42.335855,-71.135127,8
+Condo/Co-op,'59 Addington Rd #3',Brookline,MA,2445,1450000,3,2.5,Brookline,1467,24557.893477,1910,3,620,42.335855,-71.135127,8
+Condo/Co-op,'59 Addington Rd #4',Brookline,MA,2445,1650000,3,2.5,Brookline,1716,27951.918245,1910,3,723,42.335855,-71.135127,9
+'Single Family Residential','384 Dudley Rd',Newton,MA,2459,1987400,5,4.5,Newton,4711,15211,2004,3,0,42.308669,-71.181125,9
+'Single Family Residential','250 ANAWAN St',Rehoboth,MA,2769,295000,2,1,Rehoboth,1000,61307,1900,3,0,41.872836,-71.231945,1
+Townhouse,'288 Main St #1',Acton,MA,1720,689900,3,3.5,Acton,2905,30056,2009,3,275,42.476144,-71.452832,6
+'Single Family Residential','Lot 10 Foxhollow Rd',Hopkinton,MA,1748,1499000,5,4.5,Hopkinton,4349,38332,2020,3,0,42.213722,-71.58681,8
+'Single Family Residential','33 Jerome St',Berkley,MA,2779,469900,4,2.5,Berkley,2776,43560,1988,3,0,41.858029,-71.06981,3
+Townhouse,'93 Concord St Unit 93',Ashland,MA,1721,349900,3,1.5,Ashland,1875,18282,1970,3,0,42.261771,-71.461479,2
+Condo/Co-op,'385 Main St #4',Woburn,MA,1801,299900,1,1,Woburn,750,14784.737821,1899,3,125,42.47993,-71.151512,1
+Condo/Co-op,'385 Main St #2',Woburn,MA,1801,299900,1,1,Woburn,725,14443.972283,1899,3,125,42.47993,-71.151512,1
+'Single Family Residential','115 Bogle St',Weston,MA,2493,1550000,4,3.5,Weston,3911,47264,1968,3,0,42.322261,-71.323171,8
+'Single Family Residential','138 Waverly Ave',Melrose,MA,2176,699000,4,2.5,'Mount Hood',3173,7812,1949,3,0,42.457493,-71.046875,6
+'Single Family Residential','16 Highland St',Spencer,MA,1562,85900,3,1,Spencer,1004,13931,1880,3,0,42.249113,-71.989243,0
+'Single Family Residential','23 Peterson',Natick,MA,1760,599900,4,2.5,Peterson/Ingleside/Oak,1980,15072,1958,3,0,42.31139,-71.330826,5
+'Single Family Residential','92 Lowther',Framingham,MA,1701,314900,3,1,Framingham,1360,9967,1956,3,0,42.318133,-71.405793,1
+Townhouse,'14 Gates Rd Unit A',Worcester,MA,1603,250000,2,1.5,Worcester,2068,32749.897032,1987,3,0,42.247435,-71.845068,0
+'Single Family Residential','796 Waverley St',Framingham,MA,1702,379900,4,2,Framingham,1258,9583,1864,3,0,42.272791,-71.43126,2
+'Single Family Residential','102 Sears Rd',Wayland,MA,1778,1250000,5,3.5,Wayland,4068,89621,1960,3,0,42.383943,-71.343608,8
+'Single Family Residential','46 Rutherford Ave',Boston,MA,2129,1459000,3,3.5,Charlestown,1656,1168,2012,3,0,42.372501,-71.064288,8
+Condo/Co-op,'33 Pond Ave #305',Brookline,MA,2445,789000,2,2,'Brookline Village',1260,21736.354815,1970,3,1065,42.331352,-71.114098,6
+'Single Family Residential','43 Creeper Hill Rd',Grafton,MA,1536,255000,3,2,Grafton,1338,38663,1987,3,0,42.240863,-71.718201,0
+'Single Family Residential','225 Country Hill Dr',Dighton,MA,2764,629900,4,3,Dighton,3629,46609,1990,3,0,41.847032,-71.118137,5
+Condo/Co-op,'16 Baldwin Dr #16',Sharon,MA,2067,645000,2,2.5,Sharon,2893,43995.159816,1997,3,871,42.140203,-71.178021,6
+'Single Family Residential','680 N Main St',Mansfield,MA,2048,594000,4,2.5,Mansfield,2241,10045,2020,3,0,42.041298,-71.216395,5
+Condo/Co-op,'102 Williams St #2',Boston,MA,2130,519000,2,1,'Jamaica Plain',838,15984.232518,1905,3,121,42.305128,-71.105823,4
+'Single Family Residential','91 Dexter Rd',Melrose,MA,2176,525000,3,2,Melrose,1658,7060,1956,3,0,42.444721,-71.038703,4
+Townhouse,'23 Cleary Cir #13',Norfolk,MA,2056,519900,2,2.5,Norfolk,1872,30078.295207,2020,3,200,42.120896,-71.323055,4
+Condo/Co-op,'9 Independence Ave #302',Braintree,MA,2184,589000,2,2,Braintree,1352,22990.371998,2018,3,200,42.230569,-71.005622,5
+Townhouse,'173 Main St #1',Maynard,MA,1754,439000,3,2.5,Maynard,2100,13000,2020,3,230,42.43091,-71.459706,3
+'Single Family Residential','281 Taylor Rd',Stow,MA,1775,849900,3,2.5,Stow,2875,277913,2004,3,0,42.459798,-71.5228,7
+'Single Family Residential','59 LIncoln St',Waltham,MA,2451,1590000,5,5.5,'Piety Corner',7252,35676,1925,3,0,42.393122,-71.23995,8
+'Single Family Residential','50 Garden Pkwy',Norwood,MA,2062,549900,3,2,Norwood,1738,12500,1960,3,0,42.175688,-71.228789,4
+'Single Family Residential','50 Collins St',Attleboro,MA,2703,292500,2,1.5,Attleboro,1238,10000,1900,3,0,41.898245,-71.367152,1
+Condo/Co-op,'9 Woodward Park St #1',Boston,MA,2125,565000,3,2,Boston,1732,4669,1905,3,0,42.318712,-71.072457,5
+'Single Family Residential','25 McGregory Rd',Sturbridge,MA,1566,379900,4,2,Sturbridge,2770,31798,1956,3,0,42.093898,-72.063227,2
+'Single Family Residential','11 Burditt Rd','North Reading',MA,1864,329900,2,1,'North Reading',1072,12197,1951,3,0,42.566225,-71.110338,1
+'Single Family Residential','44 Nevada Rd',Needham,MA,2494,2295000,6,6,Needham,5200,10019,2019,3,0,42.293744,-71.22271,9
+'Multi-Family (2-4 Unit)','243 Washington St',Reading,MA,1867,639900,4,3,Reading,2400,6820,1940,3,0,42.521174,-71.097572,5
+'Single Family Residential','1114 West St',Wrentham,MA,2093,489000,3,2.5,Wrentham,1956,29185,1845,3,0,42.033739,-71.390648,4
+Condo/Co-op,'27-1 Arlington Rd #3',Woburn,MA,1801,319900,2,1,Woburn,864,16338.628679,1965,3,397,42.475492,-71.156218,1
+'Single Family Residential','7 CAPE CLUB Dr',Sharon,MA,2067,849000,2,2.5,'The Cape Club of Sharon Golf Course',2800,42727.512012,2019,3,468,42.152608,-71.183219,7
+Condo/Co-op,'280 Boylston St #312',Newton,MA,2467,499000,1,1.5,'Chestnut Hill',1060,19010.230504,1970,3,727,42.3187,-71.178641,4
+Condo/Co-op,'144 Hart St #36',Taunton,MA,2780,162900,2,1,Taunton,920,17101.943486,1987,3,425,41.886255,-71.065308,0
+'Single Family Residential','23 Harrison Ave',Auburn,MA,1501,250000,3,2,Auburn,1350,13299,1986,3,0,42.204336,-71.831353,0
+'Single Family Residential','373 Hartford Ave',Bellingham,MA,2019,400000,3,2,'Plymouth Village',2041,12225,1964,3,0,42.124519,-71.454634,2
+'Single Family Residential','187 Washington St',Canton,MA,2021,459000,3,1,Canton,1224,9069,1952,3,0,42.14358,-71.148867,3
+'Single Family Residential','28 MC KINLEY',Worcester,MA,1605,309900,3,2,Worcester,1600,3437,2020,3,0,42.28274,-71.789211,1
+'Multi-Family (2-4 Unit)','43 - 45 Lincoln St',Watertown,MA,2472,1090000,7,3,Watertown,3014,9857,1910,3,0,42.367843,-71.172585,7
+'Single Family Residential','25 Rocky Brook Rd',Dover,MA,2030,922500,4,3,Dover,3530,49136,1969,3,0,42.223524,-71.275565,7
