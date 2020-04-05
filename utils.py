@@ -1,6 +1,6 @@
 from copy import deepcopy
 import pandas as pd
-from sklearn.metrics import roc_curve
+
 
 ATTRIBUTE_SELECTION_DICT = dict()
 ATTRIBUTE_SELECTION_DICT['CfsSubsetEval'] = ['PROPERTY TYPE',
@@ -54,7 +54,7 @@ def run_all_attribute_selection_methods(X):
         print(method)
         X1 = X.loc[:, cols]
         X2 = one_hot_encode_all_cols(X1)
-    d[method] = X2
+        d[method] = X2
     return d
 
 
@@ -69,15 +69,7 @@ def get_tpr_per_class(m):
         
     return tprs
 
-def plot_roc(y_bool, y_probas_max):
-    fpr, tpr, thresholds = roc_curve(y_bool, y_probas_max)
-    fig = plt.figure(figsize=(20, 15))
-    plt.plot(fpr, tpr)
-    plt.plot([0, 1], [0, 1], color='navy', linestyle='--')
-    plt.xlabel('False Positive Rate', size=25)
-    plt.ylabel('True Positive Rate', size=25)
-    plt.title("ROC Curve")
-    plt.show()
+
 
 
 
